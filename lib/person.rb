@@ -1,6 +1,6 @@
 class Person
   
   def initialize(attributes)
-    .send(())
+    attributes.each{ self.send(()) }
   end
 end
