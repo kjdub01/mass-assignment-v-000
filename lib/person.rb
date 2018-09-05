@@ -1,6 +1,6 @@
 class Person
   
-  def initialize
-    
+  def initialize(attributes)
+    .send(())
   end
 end
